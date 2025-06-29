@@ -1,5 +1,5 @@
 [book]
-authors = ["Sarthak Munshi"]
+authors = ["Sarthak Munshi", "Sachit Malik", "Nishit Mengar"]
 language = "en"
 src = "src"
 title = "AI Security Handbook"
