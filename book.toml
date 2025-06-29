@@ -1,0 +1,5 @@
+[book]
+authors = ["Sarthak Munshi"]
+language = "en"
+src = "src"
+title = "AI Security Handbook"
