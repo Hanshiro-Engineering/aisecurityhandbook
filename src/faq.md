@@ -12,41 +12,5 @@
 <meta name="twitter:image" content="https://aisecurityhandbook.com/img/social.png">
 
 
-# Summary
-
-
-[Frequently Asked Questions (FAQ)](faq.md)
-[License](license.md)
-[How to read this book?]()
-
-# Attacks
+# Frequently Asked Questions (FAQ)
 ---
-
-* [Prompt Engineering]()
-    * [Bijection Learning]()
-
-* [Model Architecture Exploitation]()
-    * [KV Cache Leaks]()
-
-* [ML Systems]()
-    * [Quantization Attacks]()
-
-
-# Defenses and Guardrails
----
-
-* [Prompt Engineering]()
-    * [Bijection Learning]()
-
-
-# Alignment, Safety, and Responsible AI
----
-
-* [Model Steering]()
-
-
-# Conclusion
----
-
-* [Appendix]()
-    * [Additional Reading]()
