@@ -29,7 +29,8 @@
     * [KV Cache Leaks]()
 
 * [ML Systems]()
-    * [Quantization Attacks]()
+    * [Attacks on Quantization Techniques]()
+        * [Adversarial Interferences on GGUF](./chapter-3/mind-the-gap.md)
 
 
 # Defenses and Guardrails
