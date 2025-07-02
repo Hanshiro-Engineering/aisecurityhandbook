@@ -23,27 +23,34 @@
 ---
 
 * [Prompt Engineering]()
-    * [Bijection Learning]()
+    * [Bijection Learning](./chapter-1/bijection-learning.md)
 
 * [Model Architecture Exploitation]()
-    * [KV Cache Leaks]()
+    * [Prompt Leakage via KV Cache Sharing]()
 
 * [ML Systems]()
     * [Attacks on Quantization Techniques]()
         * [Adversarial Interferences on GGUF](./chapter-3/mind-the-gap.md)
 
+* [Application Protocols]()
+    * [Model Context Protocol]()
+        * [Ghost Tool Shadowing]()
+
+
 
 # Defenses and Guardrails
 ---
 
-* [Prompt Engineering]()
-    * [Bijection Learning]()
+* [Cloud Guardrails]()
+    * [AWS Bedrock]()
+* [Hardware Protections]()
 
 
 # Alignment, Safety, and Responsible AI
 ---
 
 * [Model Steering]()
+* [Evaluations]()
 
 
 # Conclusion
