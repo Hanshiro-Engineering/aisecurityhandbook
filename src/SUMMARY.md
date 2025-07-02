@@ -14,7 +14,8 @@
 
 # Summary
 
-
+[Home](home.md)
+[About the authors]()
 [Frequently Asked Questions (FAQ)](faq.md)
 [License](license.md)
 [How to read this book?]()
