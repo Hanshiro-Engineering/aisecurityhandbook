@@ -12,7 +12,7 @@
 <meta name="twitter:image" content="https://aisecurityhandbook.com/img/social.png">
 
 
-<p align="center"><img src="./home.png" width="65%" alt="AI Security Handbook"></p>
+<p align="center"><img src="./home.png" width="75%" alt="AI Security Handbook"></p>
 
 <style>
 h1, h2, h3 {
@@ -26,11 +26,15 @@ h1 {
 h3 {
   font-size: 1.875em;
 }
+
+img {
+  border-radius: 50%;
+}
 </style>
 
 <div class='token'>
 <center>
-  <h1>High Assurance Rust</h1>
+  <h1>AI Security Handbook</h1>
   <br>
   <h3><i>Develop Secure AI Systems</i></h3>
 </center>
