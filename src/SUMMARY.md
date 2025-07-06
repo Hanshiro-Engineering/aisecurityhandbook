@@ -27,11 +27,12 @@
     * [Bijection Learning](./chapter-1/bijection-learning.md)
 
 * [Model Architecture Exploitation]()
-    * [Prompt Leakage via KV Cache Sharing]()
 
 * [ML Systems]()
     * [Attacks on Quantization Techniques]()
         * [Adversarial Interferences on GGUF](./chapter-3/mind-the-gap.md)
+    * [Attacks on KV Cache]()
+        * [Prompt Leakage via KV Cache Sharing](./chapter-3/prompt-leakage-kv-cache-sharing.md)
 
 * [Application Protocols]()
     * [Model Context Protocol]()
