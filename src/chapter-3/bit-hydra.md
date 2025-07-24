@@ -473,3 +473,11 @@ BitHydra represents a paradigm shift in AI security threats, demonstrating how h
 
 [5] Qureshi, M. K., et al. "AVATAR: A variable-retention-time (VRT) aware refresh for DRAM systems." 2015 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. IEEE, 2015.
 
+[6] Qiu, H., Dong, J., Zhang, T., Lu, J., Li, B., & Zhu, R. (2024). An Engorgio Prompt Makes Large Language Model Babble on. arXiv preprint arXiv:2412.19394.
+
+[7] Feng, X., Han, X., Chen, S., & Yang, W. (2024). LLMEffiChecker: Understanding and Testing Efficiency Degradation of Large Language Models. ACM Transactions on Software Engineering and Methodology, 33(8), 1-32.
+
+[8] Shumailov, I., Zhao, Y., Bates, D., Papernot, N., Mullins, R., & Anderson, R. (2021). Sponge Examples: Energy-Latency Attacks on Neural Networks. In 2021 IEEE European Symposium on Security and Privacy (EuroS&P) (pp. 212-231). IEEE.
+
+[9] Coalson, Z., Shumailov, I., Zhao, Y., Bates, D., Mullins, R., Papernot, N., & Anderson, R. (2024). PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips. arXiv preprint arXiv:2412.07192.
+
