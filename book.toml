@@ -3,3 +3,6 @@ authors = ["Sarthak Munshi", "Sachit Malik", "Nishit Mengar"]
 language = "en"
 src = "src"
 title = "AI Security Handbook: Develop Secure AI Systems"
+
+[output.html]
+mathjax-support = true

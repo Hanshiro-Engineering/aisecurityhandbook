@@ -33,6 +33,8 @@
         * [Adversarial Interferences on GGUF](./chapter-3/mind-the-gap.md)
     * [Attacks on KV Cache]()
         * [Prompt Leakage via KV Cache Sharing](./chapter-3/prompt-leakage-kv-cache-sharing.md)
+    * [Attacks on Model Weights (in memory)]()
+        * [BitHydra: Bit-flip Inference Cost Attacks](./chapter-3/bit-hydra.md)
 
 * [Application Protocols]()
     * [Model Context Protocol]()
